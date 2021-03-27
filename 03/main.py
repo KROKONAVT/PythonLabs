@@ -1,0 +1,8 @@
+print('Введите значение а')
+a = float(input())
+print('Введите значение b')
+b = float(input())
+print("a + b =", a + b)
+print("a - b =", a - b)
+print("a * b =", a * b)
+print("a / b =", a / b)
